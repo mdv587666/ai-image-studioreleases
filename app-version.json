@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "releaseNotes": "AI Image Studio 1.0.3 ",
-  "downloadUrl": "https://github.com/mdv587666/ai-image-studioreleases/releases/download/v1.0.3/AI-Image-Studio-1.0.3-win-clean-20260518-174655.zip"
+  "version": "1.0.4",
+  "releaseNotes": "AI Image Studio 1.0.4 — 修复生成数量bug，OpenAI提供商现在会循环生成指定数量的图片",
+  "downloadUrl": "https://github.com/mdv587666/ai-image-studioreleases/releases/download/v1.0.4/AI-Image-Studio-1.0.4-win-clean-20260520-094753.zip"
 }
