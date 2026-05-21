@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "releaseNotes": "AI Image Studio 1.0.5 — 图片默认保存到用户Pictures/image-studio；启动自动检测更新；修复启动乱码和路由404问题；优化启动速度和打包启动脚本",
-  "downloadUrl": "https://github.com/mdv587666/ai-image-studioreleases/releases/download/v1.0.5/AI-Image-Studio-1.0.5-win-clean-20260520-180433.zip"
+  "version": "1.0.6",
+  "releaseNotes": "AI Image Studio 1.0.6 — 版本更新",
+  "downloadUrl": "https://github.com/mdv587666/ai-image-studioreleases/releases/download/v1.0.6/AI-Image-Studio-1.0.6-win-clean-20260521-135939.zip"
 }
