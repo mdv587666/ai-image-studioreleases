@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "releaseNotes": "AI Image Studio 1.0.8 — Sili电商运营助手\n\n新功能：\n- 添加 Sili 电商运营助手 - 内置专业的电商运营专家身份\n- AI对话支持粘贴图片功能\n- 对话记录自动持久化存储\n- 优化对话页面UI和用户体验\n\n改进：\n- 简化模型配置界面\n- 修复 TypeScript 类型错误",
-  "downloadUrl": "https://github.com/mdv587666/ai-image-studioreleases/releases/download/v1.0.8/AI-Image-Studio-1.0.8-win-clean-20260521-182302.zip"
+  "version": "1.0.9",
+  "releaseNotes": "AI Image Studio 1.0.9 — Sili电商运营助手\n\n新功能：\n- 添加 Sili 电商运营助手 - 内置专业的电商运营专家身份\n- AI对话支持粘贴图片功能\n- 对话记录自动持久化存储\n- 优化对话页面UI和用户体验\n\n改进：\n- 简化模型配置界面\n- 修复 TypeScript 类型错误",
+  "downloadUrl": "https://github.com/mdv587666/ai-image-studioreleases/releases/download/v1.0.9/AI-Image-Studio-1.0.9-win-clean-20260523-102831.zip"
 }
